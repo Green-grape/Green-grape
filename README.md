@@ -29,7 +29,10 @@ Here are some ideas to get you started:
   </p>
   <h3>FrameWork</h3>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white">
+  </p>
+  <h3>Enviroment</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
   </p>
 
