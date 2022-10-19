@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 <h2>STAT 😀</h2>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhkim137)](https://solved.ac/yhkim137/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhkim137)](https://solved.ac/yhkim137)
 
 <h2>SKILLS</h2>
   <h3>Language</h3>
