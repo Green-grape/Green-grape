@@ -8,14 +8,21 @@
 ---
 
 ## Career Path
-<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-  <img src="./images/Core_16_symbol.png" width="20px" style="vertical-align: middle;">
-</span>
-<span style="vertical-align: middle;">
-&nbsp; <strong>Core 16 — Data Engineer (2025.01 ~ 2025.03)</strong></span> 
+
+<table>
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="./images/Core_16_symbol.png" width="20" height="20" alt="Core 16">
+    </td>
+    <td>
+      <strong>Core 16 — Data Engineer (2025.01 ~ 2025.03)</strong>
+    </td>
+  </tr>
+</table>
 
 - Built data pipelines for internal systems, cleansing, and integration workflows.  
-- Implemented predictive models. 
+- Implemented predictive models.  
+
 ---
 
 ## Research & Industry Projects
@@ -28,65 +35,71 @@
 - Applying Explainable AI techniques for model interpretability.  
 *(Project in collaboration — details subject to final agreement)*
 
-
-<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-  <img src="./images/HYU_symbol_basic_png.png" width="20px"        style="vertical-align: middle;">
-</span>
-<span style="vertical-align: middle;">
-  &nbsp;<strong>Quant Developer — Hanyang University Business Informatics Lab (2024.08 ~ 2024.12)</strong>
-</span>
+<table>
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="./images/HYU_symbol_basic_png.png" width="20" height="20" alt="HYU">
+    </td>
+    <td>
+      <strong>Quant Developer — <em>Hanyang University Business Informatics Lab</em> (2024.08 ~ 2024.12)</strong>
+    </td>
+  </tr>
+</table>
 
 - Portfolio optimization using CNN and Black-Litterman model.  
 - Bloomberg & DataGuide feature engineering (50 features) using Python.  
 - TimesNet-based prediction of S&P500, KOSPI, and Korea bond prices; 59% monthly return sign accuracy (2009–2024).  
 - Backtesting of asset allocation model (monthly rebalancing): Sharpe 0.797, MDD -12.12% (2009–2024).  
 
-<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20px"        style="vertical-align: middle; border: 1px solid #ccc; border-radius: 50%;">
-</span>
-<span style="vertical-align: middle;">
-&nbsp;<strong>AI / Full-stack Engineer — SW Maestro 14th (2023.06 ~ 2023.11) </strong>
-</span>
+<table>
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20px" height="20px" alt="SW Maestro">
+    </td>
+    <td>
+      <strong>AI / Full-stack Engineer — SW Maestro 14th (2023.06 ~ 2023.11)</strong>
+    </td>
+  </tr>
+</table>
 
 - AI-powered personalized Korean learning service (“쌔미콕”).  
 - CoT-based problem explanation generation.  
 - AWS system & DB ERD design.  
 - SSP-MMC forgetting curve implementation.  
 - Processed 10,133 problems & developed CMS client for AI evaluation.  
-- Facebook & Instagram promotion (149 users).
+- Facebook & Instagram promotion (149 users).  
 
 ---
 
 ## Activities
-<ul style="list-style: none; padding-left: 20px;">
-  <li>
-    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-      <img src="./images/HYU_symbol_basic_png.png" width="20px" style="vertical-align: middle;">
-    </span>
-    <span style="vertical-align: middle;">
-      &nbsp;<strong>Hanyang University Business Informatics Lab 16th (2024)</strong> — Portfolio Optimization with CNN & Black-Litterman.
-    </span>
-  </li>
 
-  <li>
-    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-      <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20px" style="vertical-align: middle; border: 1px solid #ccc; border-radius: 50%;">
-    </span>
-    <span style="vertical-align: middle;">
-      &nbsp;<strong>SW Maestro 14th (2023)</strong> — AI-driven personalized Korean learning service.
-    </span>
-  </li>
+<table>
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="./images/HYU_symbol_basic_png.png" width="20" height="20" alt="HYU">
+    </td>
+    <td>
+      <strong>Hanyang University Business Informatics Lab 16th (2024)</strong> — Portfolio Optimization with CNN & Black-Litterman.
+    </td>
+  </tr>
 
-  <li>
-    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
-      <img src="./images/HYU_symbol_basic_png.png" width="20px" style="vertical-align: middle;">
-    </span>
-    <span style="vertical-align: middle;">
-      &nbsp;<strong>Hanyang University Linux Club (HLUG) (2019 ~ 2020)</strong>, Vice President — Coding education, mentoring, seminars.
-    </span>
-  </li>
-</ul>
-
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20" height="20" style="border: 1px solid #ccc; border-radius: 50%;" alt="SW Maestro">
+    </td>
+    <td>
+      <strong>SW Maestro 14th (2023)</strong> — AI-driven personalized Korean learning service.
+    </td>
+  </tr>
+  <tr>
+    <td width="40px" height="40px" style="line-height:0;">
+      <img src="./images/HYU_symbol_basic_png.png" width="20" height="20" alt="HYU">
+    </td>
+    <td>
+      <strong>Hanyang University Linux Club (HLUG) (2019 ~ 2020)</strong>, Vice President — Coding education, mentoring, seminars.
+    </td>
+  </tr>
+</table>
 
 
 ---
