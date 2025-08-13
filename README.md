@@ -1,62 +1,141 @@
-### Hi there 👋
+<div align="center">
+  
+## Hi there 👋  
+🌱 I’m currently learning **AI for  Finance**
 
-<!--
-**Green-grape/Green-grape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently learning AI for vision & finance
-
-<h3>Tech Skills</h3>
-  <strong>Language</strong>
-  <p>
-    <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
-  </p>
-  <strong>FrameWork</strong>
-  <p>
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/scikit-learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-    <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white">
-  </p>
-  <strong>Enviroment</strong>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
-  </p>
-  <strong>Database</strong>
-  <p>
-    <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
-  </p>  
-  <strong>Cloud / Infra</strong>
-  <p>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=aws&logoColor=white">
-  </p>
-
-<h3 algin="center">STAT 😀</h3>
-<div>
-  <a href="https://solved.ac/yhkim137">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhkim137" alt="Solved.ac 프로필" />
-  </a>
-</div>
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Green-grape&show_icons=true&theme=dark" alt="Juho's GitHub stats" />
-</div>
 </div>
 
+---
+
+## Career Path
+<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+  <img src="./images/Core_16_symbol.png" width="20px" style="vertical-align: middle;">
+</span>
+<span style="vertical-align: middle;">
+&nbsp; <strong>Core 16 — Data Engineer (2025.01 ~ 2025.03)</strong></span> 
+
+- Built data pipelines for internal systems, cleansing, and integration workflows.  
+- Implemented predictive models. 
+---
+
+## Research & Industry Projects
+
+**External Industry Project — AI-driven Stock Rating Model**  
+*(Collaboration with professors from Hanyang University & Chung-Ang University)* (2025.06 ~ Present)  
+- Serving as external AI specialist for stock rating model development.  
+- Developing AI models for Korean equity rating.  
+- Performing feature analysis and designing custom performance metrics.  
+- Applying Explainable AI techniques for model interpretability.  
+*(Project in collaboration — details subject to final agreement)*
+
+
+<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+  <img src="./images/HYU_symbol_basic_png.png" width="20px"        style="vertical-align: middle;">
+</span>
+<span style="vertical-align: middle;">
+  &nbsp;<strong>Quant Developer — Hanyang University Business Informatics Lab (2024.08 ~ 2024.12)</strong>
+</span>
+
+- Portfolio optimization using CNN and Black-Litterman model.  
+- Bloomberg & DataGuide feature engineering (50 features) using Python.  
+- TimesNet-based prediction of S&P500, KOSPI, and Korea bond prices; 59% monthly return sign accuracy (2009–2024).  
+- Backtesting of asset allocation model (monthly rebalancing): Sharpe 0.797, MDD -12.12% (2009–2024).  
+
+<span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20px"        style="vertical-align: middle; border: 1px solid #ccc; border-radius: 50%;">
+</span>
+<span style="vertical-align: middle;">
+&nbsp;<strong>AI / Full-stack Engineer — SW Maestro 14th (2023.06 ~ 2023.11) </strong>
+</span>
+
+- AI-powered personalized Korean learning service (“쌔미콕”).  
+- CoT-based problem explanation generation.  
+- AWS system & DB ERD design.  
+- SSP-MMC forgetting curve implementation.  
+- Processed 10,133 problems & developed CMS client for AI evaluation.  
+- Facebook & Instagram promotion (149 users).
+
+---
+
+## Activities
+<ul style="list-style: none; padding-left: 20px;">
+  <li>
+    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+      <img src="./images/HYU_symbol_basic_png.png" width="20px" style="vertical-align: middle;">
+    </span>
+    <span style="vertical-align: middle;">
+      &nbsp;<strong>Hanyang University Business Informatics Lab 16th (2024)</strong> — Portfolio Optimization with CNN & Black-Litterman.
+    </span>
+  </li>
+
+  <li>
+    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+      <img src="https://avatars.githubusercontent.com/u/103282546?s=64&v=4" width="20px" style="vertical-align: middle; border: 1px solid #ccc; border-radius: 50%;">
+    </span>
+    <span style="vertical-align: middle;">
+      &nbsp;<strong>SW Maestro 14th (2023)</strong> — AI-driven personalized Korean learning service.
+    </span>
+  </li>
+
+  <li>
+    <span style="display: inline-block; vertical-align: middle; line-height: 20px;">
+      <img src="./images/HYU_symbol_basic_png.png" width="20px" style="vertical-align: middle;">
+    </span>
+    <span style="vertical-align: middle;">
+      &nbsp;<strong>Hanyang University Linux Club (HLUG) (2019 ~ 2020)</strong>, Vice President — Coding education, mentoring, seminars.
+    </span>
+  </li>
+</ul>
+
+
+
+---
+
+## Awards
+<ul style="list-style: none; padding-left: 20px;">
+  <li>🥉 <strong>WorldQuant International Quant Championship University Round (2024)</strong> Rank 3rd | Hanyang University
+  </li>
+</ul>
+
+## Tech Skills
+
+**Languages**  
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+**Frameworks & Libraries**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+
+**Cloud / Infra**  
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+---
+
+## Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Green-grape&show_icons=true&theme=transparent&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-grape&layout=compact&theme=transparent&hide_border=true" height="160" />
+
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Green-grape&theme=transparent&hide_border=true" height="160" />
+</div>
