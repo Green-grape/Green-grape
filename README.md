@@ -30,13 +30,9 @@
 <table> <tr> <td width="40px" height="40px" style="line-height:0;"> <img src="./images/HYU_symbol_basic_png.png" width="20" height="20" alt="HYU"> </td> <td> <strong>Research Assistant — <em>Hanyang University</em> (2025.06 ~ 2025.09)</strong> </td> </tr> </table> (Joint project with Hana Securities; collaboration with faculty from Hanyang Univ. & Chung-Ang Univ.)
 
 - Served as an external AI specialist for Hana Securities’ stock-collateralized loan risk project.
-
 - Built a stock rating (credit-risk-style) model for Korean equities to support collateral valuation and loan decisioning.
-
 - Engineered financial features and designed custom risk metrics tailored for collateral-based lending.
-
 - Applied Explainable AI (LIME/MDA) to provide interpretability for rating drivers.
-
 - Conducted model validation, performance analysis, and reporting for academic–industry stakeholders.
 
 <table>
